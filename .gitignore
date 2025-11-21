@@ -69,7 +69,7 @@ data/
 *.dylib
 *.so
 build/
-cmake-build-*/
+cmake-build-*/f
 CMakeCache.txt
 CMakeFiles/
 
